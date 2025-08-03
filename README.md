@@ -10,7 +10,7 @@ To extract product-level information such as titles, prices, ratings, and availa
 
 ---
 
-## 🛠Tools and Libraries Used
+## Tools and Libraries Used
 
 - **Python 3**
 - **Jupyter Notebook** – Development environment
@@ -25,7 +25,7 @@ To extract product-level information such as titles, prices, ratings, and availa
 
 - Sending GET requests to a website
 - Parsing HTML content with BeautifulSoup
-- Extracting relevant tags like product titles, prices, ratings, and more
+- Extracting relevant tags like rank, name, industry, revenue and more
 - Structuring the extracted data into a DataFrame
 - Exporting the final data to a `.csv` file
 
@@ -37,9 +37,10 @@ Depending on the target site and structure, the following fields were scraped:
 
 - **Rank**
 - **Name**
-- **Industry** (if available)
+- **Industry**
 - **Revenue (USD millions)**
 - **Revenue growth**
+- **Employees**
 - **Employees	Headquarters**
 
 ---
@@ -51,15 +52,6 @@ Depending on the target site and structure, the following fields were scraped:
 3. Open the notebook in Jupyter
 4. Run each cell step by step to scrape and process the data.
 5. Exported CSV will be saved locally in the working directory.
-
----
-
-## Project Structure
-
-web-scraping-project/
-├── web_scraping.ipynb # Main notebook with scraping code
-├── products_data.csv # Sample output CSV file
-└── README.md # Project documentation
 
 ---
 
