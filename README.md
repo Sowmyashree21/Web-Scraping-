@@ -1,4 +1,4 @@
-# Web Scraping – Product Data Extraction Using Python
+# Web Scraping – Data Extraction Using Python
 
 This project demonstrates how to use Python to scrape product data from a website. It's a beginner-friendly hands-on introduction to web scraping, extracting structured data from web pages and organizing it for analysis or reporting.
 
