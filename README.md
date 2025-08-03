@@ -4,13 +4,13 @@ This project demonstrates how to use Python to scrape product data from a websit
 
 ---
 
-## 📌 Objective
+## Objective
 
 To extract product-level information such as titles, prices, ratings, and availability from a sample website using Python libraries like `requests`, `BeautifulSoup`, and `pandas`.
 
 ---
 
-## 🛠️ Tools and Libraries Used
+## 🛠Tools and Libraries Used
 
 - **Python 3**
 - **Jupyter Notebook** – Development environment
@@ -21,7 +21,7 @@ To extract product-level information such as titles, prices, ratings, and availa
 
 ---
 
-## 🔍 What This Project Covers
+## What This Project Covers
 
 - Sending GET requests to a website
 - Parsing HTML content with BeautifulSoup
@@ -31,7 +31,7 @@ To extract product-level information such as titles, prices, ratings, and availa
 
 ---
 
-## 📊 Data Extracted
+## Data Extracted
 
 Depending on the target site and structure, the following fields were scraped:
 
@@ -44,7 +44,7 @@ Depending on the target site and structure, the following fields were scraped:
 
 ---
 
-## 🧪 How to Run
+## How to Run
 
 1. Clone or download the repository
 2. Install dependencies
@@ -54,7 +54,7 @@ Depending on the target site and structure, the following fields were scraped:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 web-scraping-project/
 ├── web_scraping.ipynb # Main notebook with scraping code
@@ -63,16 +63,16 @@ web-scraping-project/
 
 ---
 
-## ⚠️ Legal and Ethical Note
+## Legal and Ethical Note
 
 Always review and respect a website’s `robots.txt` and terms of service before scraping. This project is for **educational purposes only**, and the target website used was publicly accessible with no login required.
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm an aspiring data analyst learning how to collect and work with real-world data. This web scraping project helped me understand how raw HTML content can be transformed into structured, analyzable datasets.
 
-If you're a recruiter or fellow learner, feel free to connect or explore my other projects.
+If you're a recruiter or a fellow learner, feel free to connect or explore my other projects.
 
-**GitHub**: [YourGitHubProfileLink]
+[GitHub - Sowmyashree21](https://github.com/Sowmyashree21)
